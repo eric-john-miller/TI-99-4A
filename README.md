@@ -2,8 +2,8 @@
 Various TI 99/4A programs in BASIC. 
 
 Many of these are from COMPUTE!'s First Book of TI Games.   
-If you are interested in vintage computer programming and hardware, visit my YouTube channel https://www.youtube.com/c/EricsEdgeVideos. 
-I will be exploring this code in futire livestreams.
+If you are interested in vintage computer programming and hardware, visit my YouTube channel https://www.youtube.com/c/EricsEdgeVideos.  
+I will be exploring this code in future livestreams.
 
 I can also be found online at:  
 https://www.patreon.com/EricsEdge  
